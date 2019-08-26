@@ -1,6 +1,6 @@
 # NodeJS_WebServer
 Express on Node.js による Webサーバーのサンプルです。
-ここには Express のパッケージは入っていませんので,  
+ここには Express のパッケージは入っていませんので、
 以下の手順に沿ってそれをインストールしてからお試し下さい。
 
 
