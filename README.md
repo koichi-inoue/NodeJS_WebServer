@@ -14,8 +14,10 @@ Express on Node.js による Webサーバー
   $ npm start
 
 * 以下のように表示されて、サーバーが動きます。  
-  nodejs_webserver@1.0.0 start / [ path to ] /NodeJS_WebServer
-  node server.js
+  nodejs_webserver@1.0.0 start / [ path to ] /NodeJS_WebServer  
+  node server.js  
+  
+  Server running on port:8000
   
 * ブラウザから以下にアクセスすると、サンプルとして置かれている index.html が表示されます。  
   http://localhost:8000
